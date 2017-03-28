@@ -1,4 +1,4 @@
 test:
    override:    
-      - mocha
+      - mocha test
       
